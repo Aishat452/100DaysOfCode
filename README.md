@@ -15,7 +15,7 @@ Complete at least one project every week to apply the concepts I learn.
 Join a coding community or find an accountability partner to share my progress and learn from others.
 
 ## Progress
-I will be updating this README with my progress every day. You can also follow my progress on [twitter] using the hashtag #100DaysOfCode.
+I will be updating this README with my progress every day. You can also follow my progress on twitter using the hashtag #100DaysOfCode.
 
 Day 1/100:
 I set up my development environment and completed the first few exercises of my chosen course.
@@ -26,6 +26,8 @@ I worked on understanding different HTML elements and attributes for example: se
 I proceeded to learn inline CSS: by adding colors to my little design.
 
 Day 3/100:
+I  learnt how to use colors in CSS: how to use the HEX CODE and RGB to access different colors. How to link the external CSS and other files, how to use some CSS properties.
+I also learn how to use the anchor tags with its attribute (href) and more
 
 ### Conclusion
 I am excited to take on this challenge and commit to improving my coding skills. I hope this README message serves as a source of motivation for others who are also taking on the #100DaysOfCode challenge. Let's do this!
