@@ -29,5 +29,32 @@ Day 3/100:
 I  learnt how to use colors in CSS: how to use the HEX CODE and RGB to access different colors. How to link the external CSS and other files, how to use some CSS properties.
 I also learn how to use the anchor tags with its attribute (href) and more
 
+Day 4/100:
+I was able to learn: 
+1. Using fonts in CSS. 
+2. Multiple files and request. 
+3. Working with font sizes
+
+Day 5/100:
+I organized source files in folders & I lesrnt how to use shared CSS file
+
+Day 6/100: 
+1. I learnt how to create lists.
+2. I understand parent child containers in CSS.
+3. and I understand the difference between the development server and the local addresses.
+
+Day 7/100:
+1. I understand how to use the CSS BOX MODEL.
+2. Selectors and Combinators.
+3. The difference between block versus inline elements.
+
+Day 8/100:
+1. Working with "box-shadow" property
+2. Working withn negative margin.
+3. Working with HTML layout.
+4. Styling the main section of the first week project.
+
+Day 9/100:
+
 ### Conclusion
 I am excited to take on this challenge and commit to improving my coding skills. I hope this README message serves as a source of motivation for others who are also taking on the #100DaysOfCode challenge. Let's do this!
