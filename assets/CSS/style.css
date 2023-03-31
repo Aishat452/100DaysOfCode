@@ -117,3 +117,29 @@ span{
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+/************************* THIRD PAGE ****************************/
+
+.secondWeekbd{
+    /* background-color: rgb(122, 74, 218); */
+    background-color: rgb(244, 234, 255);
+    padding-top: 0px;
+}
+
+.secondWeekh{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.secondWeekh h1{
+    color: rgb(122, 74, 218);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secondWeekh img{
+    width: 300px;
+    border-radius: 0px;
+    border: none;
+}
