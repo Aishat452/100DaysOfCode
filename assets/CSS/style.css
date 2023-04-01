@@ -123,7 +123,7 @@ span{
 
 .secondWeekbd{
     /* background-color: rgb(122, 74, 218); */
-    background-color: rgb(244, 234, 255);
+    background-color: rgb(245, 236, 255);
     padding-top: 0px;
 }
 
@@ -139,7 +139,56 @@ span{
 }
 
 .secondWeekh img{
-    width: 300px;
+    width: 250px;
     border-radius: 0px;
     border: none;
+    margin: 15px 0px 35px 0px
+}
+.secondWeekmain {
+    background-color: rgb(122, 74, 218);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    border-radius: 10px;
+    width: 55%;
+    text-align: left;
+    padding: 20px;
+    margin-left: 22%;
+}
+
+.secondWeekmain ul li{
+    padding: 8px;
+    list-style: none;
+}
+
+.colorBrown{
+     color: rgb(255, 231, 199);
+     border-left: solid 3px rgb(255, 206, 44);
+     
+}
+
+.bgbrown{
+    background-color: burlywood;
+    text-decoration: none;
+    padding: 3px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.secondWeekFooter{
+   margin: 3rem 0 3rem 0;
+}
+
+.buttombtn{
+    background-color: rgb(255, 206, 44);
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.secondWeekFooter p {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
 }
