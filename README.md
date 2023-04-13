@@ -59,5 +59,7 @@ I was able to understand the use of CSS GRID system
 1. Work with media queries to enable websites responsiveness
 2. Forms and its design: the use of different form attributes for visually impaired and for server connection and more
 
+Day 31- 33/100:
+
 ### Conclusion
 I am excited to take on this challenge and commit to improving my coding skills. I hope this README message serves as a source of motivation for others who are also taking on the #100DaysOfCode challenge. Let's do this!
