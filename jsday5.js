@@ -17,8 +17,10 @@ let myNewDoc = document.getElementById('head').innerHTML = 'Hello I\'m Aishat';
 // 4. Select the second <p> element with querySelector (you might
 //    need to add something in the HTML code, e.g. a class) 
 //    and store it in a new variable with a name of your choice
-let pQuery = document.querySelector('.para').innerText = 'Welcom to Aisha\'s website';
+let pQuery = document.querySelector('.para').innerHTML = 'Welcom to Aisha\'s website';
+ let newLink = document.getElementById('link').innerHTML = 'Click me'
 // 5. BONUS TASK: Try changing the text content of the <p> element
 //    you selected in (4) and set it to any other text of your choice
 
-console.log(myNewDoc);
+console.dir(myDoc);
+console.log(newLink);
