@@ -70,6 +70,7 @@ DOM (Document Object Manipulation)
 1. Query Selectors
 2. The DOM tree
 3. The getElementById function
-
+4. The eventListener('with its type', and the function we want it to carry out when the type of the event is executed)
+5. The 'event' object which is to be added to the event's 'function' before its being called in the eventListener as the  second parameter
 ### Conclusion
 I am excited to take on this challenge and commit to improving my coding skills. I hope this README message serves as a source of motivation for others who are also taking on the #100DaysOfCode challenge. Let's do this!
