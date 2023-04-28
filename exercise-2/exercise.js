@@ -2,7 +2,9 @@
 
 // 1) Select the two <button> elements and store them in two different variables.
 //    - Select the first button without adding or using any "id"
+    let firstButton = document.querySelector('.firstButton');
 //    - Select the second button by using an "id"
+    let secondButton = document.getElementById('secondButton');
 // 2) Add "click" event listener to both buttons (with two different functions).
 //    The functions should "console.dir()" the clicked buttons.
 //    - Output the first button by using the variable in which it's stored
