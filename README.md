@@ -65,12 +65,20 @@ I learnt about functions and method.
 The differences between functions and methods
 Objects and how to create them
 
-Day 33 - 36/100
+Day 33 - 36/100:
 DOM (Document Object Manipulation)
 1. Query Selectors
 2. The DOM tree
 3. The getElementById function
 4. The eventListener('with its type', and the function we want it to carry out when the type of the event is executed)
-5. The 'event' object which is to be added to the event's 'function' before its being called in the eventListener as the  second parameter
+5. The 'event' object which is to be added to the event's 'function' before its being called in the eventListener as the  second parameter.
+
+Day 36 - 38/100:
+I learnt about the http essentials
+How to create objects in JavaScript, owing to the fact that JavaScript is an object oriented programming language.
+I understand the difference between GET and POST in the http methods.
+I understand how to manipulate CSS styling with JavaScript
+I went ahead to create a form that counts it imputed values and stop the user from entering too many values EXCEPT for the allowed number.
+
 ### Conclusion
 I am excited to take on this challenge and commit to improving my coding skills. I hope this README message serves as a source of motivation for others who are also taking on the #100DaysOfCode challenge. Let's do this!
