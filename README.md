@@ -80,5 +80,8 @@ I understand the difference between GET and POST in the http methods.
 I understand how to manipulate CSS styling with JavaScript
 I went ahead to create a form that counts it imputed values and stop the user from entering too many values EXCEPT for the allowed number.
 
+Day 39 - 40/100:
+JavaScript Exercises.
+
 ### Conclusion
 I am excited to take on this challenge and commit to improving my coding skills. I hope this README message serves as a source of motivation for others who are also taking on the #100DaysOfCode challenge. Let's do this!
