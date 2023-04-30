@@ -29,3 +29,9 @@ button:hover {
   background-color: rgb(221, 199, 5);
   border-color: rgb(221, 199, 5);
 }
+
+.blueBg{
+  background-color: rgb(66, 116, 255);
+  color: white;
+}
+
