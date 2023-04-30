@@ -77,6 +77,8 @@ a {
 a.highlight {
   background-color: rgb(63, 4, 141);
   padding: 0.25rem;
+  color: #fff;
+  border-radius: 4px;
 }
 
 #calculated-sum {
