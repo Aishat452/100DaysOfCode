@@ -31,3 +31,35 @@ function highlightLinks () {
 }
 
 highlightedLink.addEventListener('click', highlightLinks);
+
+// DISPLAY DATA
+
+const demoUserData = {
+
+    fullName: 'Aishat Adewoyin',
+    phoneNumber: +2347067564895,
+    age: 30,
+    height: 160
+}
+
+const displayDemoUserDataBtn = document.querySelector('#user-data button');
+
+function displayUserData (event) {
+    const outputData = document.getElementById('output-user-data');
+
+    outputData.innerHTML = ' ';
+
+    for (const key in demoUserData) {
+        const newUserDataList = document.createElement('li');
+
+        const textOutput = key.toUpperCase() + ': ' + demoUserData[key];
+
+        newUserDataList.textContent = textOutput;
+        outputData.append(newUserDataList);
+    }
+}
+
+displayDemoUserDataBtn.addEventListener('click', displayUserData);
+
+// ROLL THE DICE
+
