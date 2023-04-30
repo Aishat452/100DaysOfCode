@@ -1,6 +1,6 @@
-let firstButton = document.querySelector(".firstButton");
+const firstButton = document.querySelector(".firstButton");
 
-let secondButton = document.getElementById("secondButton");
+const secondButton = document.getElementById("secondButton");
 
 const firstParagraph = document.querySelector('.thirdPara');
 
@@ -19,8 +19,6 @@ function buttonClickRemove(event) {
 function buttonChangeBgColor(event) {
     firstParagraph.classList.add('blueBg');
 }
-
-
 
 firstButton.addEventListener("click", buttonClickRemove);
 secondButton.addEventListener("click", buttonChangeBgColor);
