@@ -83,5 +83,9 @@ I went ahead to create a form that counts it imputed values and stop the user fr
 Day 39 - 40/100:
 JavaScript Exercises.
 
+Day 40 - 48/100:
+Front-End Done
+Intruction to backend
+
 ### Conclusion
 I am excited to take on this challenge and commit to improving my coding skills. I hope this README message serves as a source of motivation for others who are also taking on the #100DaysOfCode challenge. Let's do this!
